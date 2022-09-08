@@ -60,5 +60,5 @@ class ProjectColors {
 }
 
 class ProjectKeys {
-  final String welcome = "Merhaba";
+  final String welcome = "Halo";
 }
