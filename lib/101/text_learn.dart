@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class TextLearnView extends StatelessWidget {
@@ -14,6 +15,8 @@ class TextLearnView extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            // CupertinoButton(child: const Text('a'), onPressed: () {}),
+            // TextButton(onPressed: (){}, child: const Text('a')),
             Text(
               ('Welcome $name'),
               maxLines: 2,
