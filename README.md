@@ -1,6 +1,8 @@
 # flutter_full_learn
 
-A new Flutter project.
+- I just started learning Flutter.
+- My first goal is to learn flutter step by step and progress regularly.
+- I wanted to share the screenshot of every code I wrote with you.
 
 ## Getting Started
 
