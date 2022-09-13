@@ -9,7 +9,7 @@ class ScaffoldLearnView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('Scaffold Samples')),
       body: const Text('Hello World'),
-      backgroundColor: Colors.brown,
+      backgroundColor: Colors.white24,
       extendBody: true,
       floatingActionButton: FloatingActionButton(
         onPressed: () {
