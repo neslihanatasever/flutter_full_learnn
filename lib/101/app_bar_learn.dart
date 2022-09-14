@@ -24,7 +24,7 @@ class AppBarLearnView extends StatelessWidget {
             onPressed: () {},
             icon: const Icon(Icons.mark_email_unread_sharp),
           ),
-          // const Center(child: CircularProgressIndicator()), //sağ üst köşede loading
+          const Center(child: CircularProgressIndicator()), //sağ üst köşede loading
         ],
       ),
       body: Column(children: const []),
