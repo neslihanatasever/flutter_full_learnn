@@ -7,6 +7,7 @@ import '../101/color_learn.dart';
 import '../101/container_sized_box_learn.dart';
 import '../101/icon_learn.dart';
 import '../101/scaffold_learn.dart';
+import '../101/statless_learn.dart';
 
 void main() {
   runApp(const MyApp());
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.transparent,
           elevation: 0,
         )), //eğer tüm projemde geçerli olmasını istediğim özellikler var ise buraya yazabilirim.
-      home: const ColorLearn(),
+      home: StatlessLearn(),
     );
   }
 }
