@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 class AppBarLearnView extends StatelessWidget {
   const AppBarLearnView({Key? key}) : super(key: key);
 
-  final String _title = 'Welcome Learn';
+  final String _title = 'Welcome Learnn';
 
   @override
   Widget build(BuildContext context) {
@@ -24,7 +24,7 @@ class AppBarLearnView extends StatelessWidget {
             onPressed: () {},
             icon: const Icon(Icons.mark_email_unread_sharp),
           ),
-          const Center(child: CircularProgressIndicator()), //sağ üst köşede loading
+          // const Center(child: CircularProgressIndicator()), //sağ üst köşede loading
         ],
       ),
       body: Column(children: const []),
