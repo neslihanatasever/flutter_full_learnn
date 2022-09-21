@@ -27,13 +27,17 @@ class NoteDemos extends StatelessWidget {
               child: _SubTitleWidget(title: _description *9),
             ),
             const Spacer(),
-            
-            ElevatedButton(onPressed: () {}, child:  SizedBox(
+
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(primary: Colors.blueGrey),
+                onPressed: () {}, child:  SizedBox(
               height: ButtonSpecs.buttonNormalHeight,
                 child: Center(child: Text(_createNote,
                 style: Theme.of(context).textTheme.headline6,
                 )))),
-            TextButton(onPressed: () {}, child: Text(_importNote)),
+            TextButton(
+              style: TextButton.styleFrom(primary: Colors.pinkAccent[200]),
+                onPressed: () {}, child: Text(_importNote)),
             const SizedBox(height: 50),
           ],
         ),
@@ -69,8 +73,6 @@ class _TitleWidget extends StatelessWidget {
     );
   }
 }
-
-
 
 class PaddingItems {
   static const EdgeInsets horizontalPadding = EdgeInsets.symmetric(horizontal: 20);
