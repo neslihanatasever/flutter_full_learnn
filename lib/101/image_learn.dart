@@ -12,7 +12,7 @@ class ImageLearn extends StatelessWidget {
           width: 300,
           height: 300,
           child: Image.asset(
-            ImageItems().appleWithBook,
+            ImageItems().appleBook,
             fit: BoxFit.fitWidth,
           ),
         ),
@@ -26,7 +26,7 @@ class ImageLearn extends StatelessWidget {
 
 class ImageItems {
   final String appleWithBook = "assets/AtasayarYeniLogo.png";
-  final String appleBook = "assets/png/pngegg.png";
+  final String appleBook = "assets/png/ic_apple_with_school.png";
   final String appleBookWithoutPath = "ic_apple_with_school";
 }
 
