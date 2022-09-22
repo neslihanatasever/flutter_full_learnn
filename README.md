@@ -20,9 +20,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
 <hr>
-
 
 <div align='center'>
 
@@ -44,9 +42,6 @@ samples, guidance on mobile development, and a full API reference.
 #### note_demos_view.dart :point_down: custom_widget_learn.dart
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191485445-8d0d4317-288b-43f9-a3fa-3f02e36f446f.png"> </img>&#160;&#160;&#160;
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191725730-ac1851f2-5b10-4d8c-9158-b8a93c203054.png"> </img>&#160;&#160;&#160;
-
-
-
-
+<img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191755345-c03f85b1-626c-461f-aa12-41275be62fd1.png"> </img>&#160;&#160;&#160;
 
 </div>
