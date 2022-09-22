@@ -42,7 +42,8 @@ samples, guidance on mobile development, and a full API reference.
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191266423-300fa583-413a-4823-96a7-e78d2a20cb27.png"> </img>&#160;&#160;&#160;
 
 #### note_demos_view.dart 
-<img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191472155-f37a448c-a4ff-455c-8d1e-540d3df80248.png"> </img>&#160;&#160;&#160;
+<img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191485445-8d0d4317-288b-43f9-a3fa-3f02e36f446f.png"> </img>&#160;&#160;&#160;
+
 
 
 
