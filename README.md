@@ -20,9 +20,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
 <hr>
-
 
 <div align='center'>
 
@@ -41,12 +39,9 @@ samples, guidance on mobile development, and a full API reference.
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191216740-627052ca-1447-42a5-9414-9d6866a0d8f9.png"> </img>&#160;&#160;&#160;
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191266423-300fa583-413a-4823-96a7-e78d2a20cb27.png"> </img>&#160;&#160;&#160;
 
-#### note_demos_view.dart :point_down: custom_widget_learn.dart
+#### note_demos_view.dart :point_down: custom_widget_learn.dart :point_down:
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191485445-8d0d4317-288b-43f9-a3fa-3f02e36f446f.png"> </img>&#160;&#160;&#160;
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191725730-ac1851f2-5b10-4d8c-9158-b8a93c203054.png"> </img>&#160;&#160;&#160;
-
-
-
-
+<img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/191755345-c03f85b1-626c-461f-aa12-41275be62fd1.png"> </img>&#160;&#160;&#160;
 
 </div>
