@@ -10,6 +10,7 @@ import '../101/custom_widget_learn.dart';
 import '../101/icon_learn.dart';
 import '../101/image_learn.dart';
 import '../101/indicator_learn.dart';
+import '../101/list_tile_learn.dart';
 import '../101/padding_learn.dart';
 import '../101/scaffold_learn.dart';
 import '../101/statless_learn.dart';
@@ -29,6 +30,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         progressIndicatorTheme: const ProgressIndicatorThemeData(color: Colors.white70),
+        listTileTheme: const ListTileThemeData(contentPadding: EdgeInsets.zero),
         errorColor: ColorsItems.sulu,
         appBarTheme: const AppBarTheme(
           centerTitle: true,
@@ -36,7 +38,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.transparent,
           elevation: 0,
         )),
-      home:const IndicatorLearn(),
+      home:const ListTileLearn(),
     );
   }
 }
