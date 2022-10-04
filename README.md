@@ -49,7 +49,7 @@ samples, guidance on mobile development, and a full API reference.
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/193324084-e9b58235-b82b-4f5d-b79d-7b76b41122ca.png"> </img>&#160;&#160;&#160;
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/193410356-8db21a65-0fb3-4ade-93a2-9f52df4f91d3.png"> </img>&#160;&#160;&#160;
 
-#### stack_demo_view.dart 
+#### stack_demo_view.dart :point_down:
 <img height='550' width='260' src="https://user-images.githubusercontent.com/75980632/193417049-4416699c-46ef-4560-8217-db22a85fc11c.png"> </img>&#160;&#160;&#160;
 
 
