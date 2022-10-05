@@ -15,6 +15,7 @@ import '../101/list_tile_learn.dart';
 import '../101/padding_learn.dart';
 import '../101/scaffold_learn.dart';
 import '../101/stack_learn.dart';
+import '../101/statfull_learn.dart';
 import '../101/statless_learn.dart';
 import '../demos/note_demos_view.dart';
 import '../demos/stack_demo_view.dart';
@@ -41,7 +42,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.transparent,
           elevation: 0,
         )),
-      home:const StackDemoView(),
+      home: const StatefullLearn(),
     );
   }
 }
